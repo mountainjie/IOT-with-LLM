@@ -2,7 +2,7 @@
 This project collects recent work on the application of large models to the IoT domain.
 
 ## Table of content
-* [Open LDLM](###Open LDLM)
+* [Open LDLM](### Open LDLM)
 * Domain LDLM for IoT applications
   * Applications and its LDLM
   * Adapting methods
