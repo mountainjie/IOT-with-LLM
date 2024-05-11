@@ -27,9 +27,10 @@ This project collects recent work on the application of large models to the IoT 
 
 ### LDLM driven IoT system management
 #### LDLM driven network operation
-* [Automated Root Causing of Cloud Incidents using In-Context Learning with GPT-4](https://arxiv.org/pdf/2401.13810) This paper is about the application of RCA.
+* [Automated Root Causing of Cloud Incidents using In-Context Learning with GPT-4](https://arxiv.org/pdf/2401.13810) -This paper is about the RCA resolution with LLM.
 #### LDLM job scheduling
+* [Prompting Is All You Need: Automated Android Bug Replay with Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3597503.3608137) -Android by replay.
 #### LDLM driven traffic analysis
-* 
+* [ET-BERT: A Contextualized Datagram Representation with Pre-training Transformers for Encrypted Traffic Classification](https://dl.acm.org/doi/pdf/10.1145/3627703.3629553) -Traffic analysis with LLM.
 
 
