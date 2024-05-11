@@ -2,7 +2,7 @@
 This project collects recent work on the application of large models to the IoT domain.
 
 ## Table of content
-* [Open LDLM](### Open LDLM)
+* [LDLM](#Open-LDLM)
 * Domain LDLM for IoT applications
   * Applications and its LDLM
   * Adapting methods
@@ -14,7 +14,7 @@ This project collects recent work on the application of large models to the IoT 
   * LDLM driven network operation
   * LDLM job scheduling
 
-### Open LDLM
+### Open-LDLM
 
 ### Domain LDLM for IoT applications
 #### Applications and its LDLM
