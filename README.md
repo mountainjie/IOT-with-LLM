@@ -1,4 +1,4 @@
-# IOT-with-LLM
+# IOT with LLM
 This project collects recent work on the application of large models to the IoT domain.
 
 ## Table of content
