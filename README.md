@@ -31,6 +31,9 @@ This project collects recent work on the application of large models to the IoT 
 #### LDLM job scheduling
 * [Prompting Is All You Need: Automated Android Bug Replay with Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3597503.3608137) -Android bug replay.
 #### LDLM driven traffic analysis
-* [ET-BERT: A Contextualized Datagram Representation with Pre-training Transformers for Encrypted Traffic Classification](https://dl.acm.org/doi/pdf/10.1145/3627703.3629553) -Traffic analysis with LLM.
+* [2020-PERT: PAYLOAD ENCODING REPRESENTATION FROM TRANSFORMER FOR ENCRYPTED TRAFFIC CLASSIFICATION](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9303204) -The first paper Traffic classification with BERT.
+* [2022-ET-BERT: A Contextualized Datagram Representation with Pre-training Transformers for Encrypted Traffic Classification](https://dl.acm.org/doi/pdf/10.1145/3627703.3629553) -Traffic classification with BERT.
+* [2023-NetGPT: Generative Pretrained Transformer for Network Traffic](https://arxiv.org/pdf/2304.09513) -Traffic generation with GPT2.
+* [2024-TrafficGPT: Breaking the Token Barrier for Efficient Long Traffic Analysis and Generation](https://arxiv.org/pdf/2403.05822) -Traffic generation and classification with GPT2.
 
 
